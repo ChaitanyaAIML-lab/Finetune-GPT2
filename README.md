@@ -20,8 +20,3 @@ Before starting, ensure that you have Python installed on your system and the fo
 - `datasets`
 - `tokenizers`
 
-You can install these packages using pip:
-```bash
-pip install transformers torch datasets tokenizers
-```
-
